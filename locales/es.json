@@ -1,0 +1,33 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "catalog": "Catálogo",
+    "services": "Servicios",
+    "sustainability": "Compromiso Sostenible",
+    "quote": "Presupuesto",
+    "contact": "Contacto"
+  },
+  "footer": {
+    "tagline": "Tecnología que vuelve a vivir. Reparamos, reutilizamos y damos nueva vida a equipos tecnológicos con compromiso sostenible."
+  },
+  "hero": {
+    "title": "Reparamos, Reutilizamos, Reciclamos",
+    "subtitle": "Tecnología sostenible para un futuro mejor",
+    "cta": "Explora nuestros servicios"
+  },
+  "products": {
+    "title": "Productos Refurbished"
+  },
+  "services": {
+    "title": "Nuestros Servicios"
+  },
+  "sustainability": {
+    "title": "Impacto Sostenible"
+  },
+  "contact": {
+    "title": "Contáctanos"
+  },
+  "quote": {
+    "title": "Pedir Presupuesto"
+  }
+}

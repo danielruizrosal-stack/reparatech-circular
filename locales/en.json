@@ -1,0 +1,33 @@
+{
+  "navigation": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "services": "Services",
+    "sustainability": "Sustainability",
+    "quote": "Quote",
+    "contact": "Contact"
+  },
+  "footer": {
+    "tagline": "Technology that lives again. We repair, reuse and give new life to tech equipment with sustainable commitment."
+  },
+  "hero": {
+    "title": "We Repair, Reuse, Recycle",
+    "subtitle": "Sustainable technology for a better future",
+    "cta": "Explore our services"
+  },
+  "products": {
+    "title": "Refurbished Products"
+  },
+  "services": {
+    "title": "Our Services"
+  },
+  "sustainability": {
+    "title": "Sustainable Impact"
+  },
+  "contact": {
+    "title": "Contact Us"
+  },
+  "quote": {
+    "title": "Request Quote"
+  }
+}
