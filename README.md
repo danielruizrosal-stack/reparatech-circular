@@ -44,3 +44,4 @@ O conecta directamente este repositorio a tu cuenta de Vercel y se desplegará a
 3. Ir a SQL Editor y ejecutar el contenido de `supabase/schema.sql`
 4. Copiar URL y claves desde Settings > API al archivo `.env.local`
 5. En Authentication > Settings, desactivar "Enable email confirmations" para desarrollo
+6.URLs: https://reparatech-circular.vercel.app/es para la web principal y https://reparatech-circular.vercel.app/admin/login para el apartado de administracion 
